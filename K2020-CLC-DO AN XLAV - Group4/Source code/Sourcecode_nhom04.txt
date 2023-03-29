@@ -1,0 +1,4 @@
+Link source code:
+- Link chạy slic implement: https://github.com/manavpng/ComputerVision/blob/master/SLIC%20segmentation/SLIC.py
+- Link chạy SLIC và K-means: https://github.com/anubhavparas/kmeans-slic-implementation/blob/main/KMeans_and_SLIC.ipynb
+- Link chạy thư viện của SLIC: https://scikit-image.org/docs/stable/auto_examples/segmentation/plot_segmentations.html

@@ -1,0 +1,1 @@
+Link Data nhóm 04: https://www.kaggle.com/datasets/plameneduardo/sarscov2-ctscan-dataset?resource=download&select=non-COVID

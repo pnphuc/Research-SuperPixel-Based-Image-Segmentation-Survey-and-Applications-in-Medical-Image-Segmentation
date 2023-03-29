@@ -1,0 +1,7 @@
+Danh sách lấy các file:
+- Superpixel_PAMI2011-2.pdf: https://core.ac.uk/download/pdf/147983593.pdf
+- v1_covered.pdf: https://assets.researchsquare.com/files/rs-123158/v1_covered.pdf?c=1631867559
+- SLic.pdf:	 https://drive.google.com/drive/folders/1sKfU8aXr1RzpPOomDLipevXq8V-4M8SH
+- 747549.pdf:	https://www.hindawi.com/journals/cmmm/2014/747549/
+
+- aerospace-09-00465-v4 .pdf: https://www.mdpi.com/2226-4310/9/8/465/pdf
